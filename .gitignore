@@ -1,0 +1,10 @@
+/node_modules
+myCoolProject/node_modules
+
+*.un~
+*.gitignore~
+*.json~
+*.html~
+*.log
+myCoolProject/dist/
+myCoolProject/backstop_data/
